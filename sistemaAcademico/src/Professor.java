@@ -8,6 +8,7 @@ public class Professor {
 	public Professor(String name) {
 		super();
 		this.name = name;
+		System.out.println("Bem vindo à EMC, hoje iremos configurar os computadores.");
 	}
 	
 	
