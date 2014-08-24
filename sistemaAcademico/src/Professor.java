@@ -1,8 +1,9 @@
 
 public class Professor {
 	
-	String name;
-	int idade;
+	private String name;
+	private byte idade;
+	private float salario;
 	
 	public Professor(String name) {
 		super();
