@@ -2,8 +2,9 @@
 public class Professor {
 	
 	String name;
-	int idade;
-	
+	String sobrenome;
+
+
 	public Professor(String name) {
 		super();
 		this.name = name;
